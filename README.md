@@ -9,13 +9,13 @@
 
  PDF - https://drive.google.com/file/d/1DjHWrySqtBsdSupSdy5vdos3VLjIwn8w/view
 
-3. בניית צ'אטבוט חכם עם אינטגרציות שונות
+2. בניית צ'אטבוט חכם עם אינטגרציות שונות
 תיאור: פיתוח צ'אטבוט חכם המשלב אינטגרציות עם מערכות CRM, ווצאפ, אינסטגרם ועוד, תוך שימוש בבינה מלאכותית (GPT).
 טכנולוגיות: AI, NLP, API Integration, Make, VoiceFlow.
 
 מסמכים וסרטונים: פרויקט PDF | סרטון דמו -  https://drive.google.com/drive/u/0/folders/1bu7dab-V5K3I9I9_G6GpcJi5la0UmvXR
 
-5. פרויקט מקיף של ניהול אוטומטי של הקהילה - חבר דרכי תשלום ועוד
+3. פרויקט מקיף של ניהול אוטומטי של הקהילה - חבר דרכי תשלום ועוד
 תיאור: הקמת מערכת טכנולוגית מקיפה לניהול אוטומטי של הקהילה, כולל תמיכה טכנית, ניהול אדמיניסטרטיבי ושיפור חוויית המשתמש.
 טכנולוגיות: Python, Selenium, Make, AWS, Google Apps Script, API Integration.
 מסמכים וסרטונים: פרויקט PDF | סרטון דמו  -  https://drive.google.com/drive/u/0/folders/1KV0b-NCdprBkLahRup3QraZ55WQVz3UD
